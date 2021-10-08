@@ -61,6 +61,6 @@ you can change settings as you want
 
 ### Contacts me
 
-  Telegram                : t.me/Z0NEX    
+  Telegram                : t.me/NOVANID    
 
 ------------------------------------------------------------
