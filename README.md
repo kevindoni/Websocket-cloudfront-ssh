@@ -61,6 +61,6 @@ you can change settings as you want
 
 ### Contacts me
 
-  Telegram                : t.me/t3rminal    
+  Telegram                : t.me/T3erminal    
 
 ------------------------------------------------------------
