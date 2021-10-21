@@ -27,7 +27,7 @@ you can change settings as you want
  - Stunnel4                : 442, 777    
  - Dropbear                : 109, 143    
  - Websocket               : 2082   
- - WS SSL               : 2082   
+ - WS SSL                  : 443   
  - Cloudfront              : 2081 (use vps & account amazon & PM Admin For setting)   
  - Squid Proxy             : 3128, 8080 (limit to IP Server)    
  - Badvpn                  : 7100, 7200, 7300    
@@ -44,7 +44,7 @@ you can change settings as you want
  - V2RAY Vless TLS         : 2083    
  - V2RAY Vless None TLS    : 8880    
  - Trojan                  : 2087    
- - Slowdns                 : 53, 2222   
+ - Slowdns                 : 53   
 
  > Server Information & Other Features    
  - Timezone                : Asia/Jakarta (GMT +7)    
@@ -61,6 +61,6 @@ you can change settings as you want
 
 ### Contacts me
 
-  Telegram                : t.me/NOVANID    
+  Telegram                : t.me/t3rminal    
 
 ------------------------------------------------------------
