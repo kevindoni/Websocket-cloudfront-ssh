@@ -9,7 +9,7 @@ you need cloudflare/cloudfront domain pointing to your ip vps [important]
 Copy this code & paste in your vps terminal
 
 ```
-apt update && apt upgrade -y && apt install -y wget screen && wget -q hhttps://raw.githubusercontent.com/kevindoni/Websocket-cloudfront-ssh/main/install.sh && chmod +x install.sh && screen -S setup ./install.sh
+apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/kevindoni/Websocket-cloudfront-ssh/main/install.sh && chmod +x install.sh && screen -S setup ./install.sh
 ```
 
 ## About
